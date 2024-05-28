@@ -1,0 +1,15 @@
+install.packages("shiny")
+install.packages("plotly") 
+install.packages("htmltools")
+install.packages("bslib")
+
+library(shiny)
+source("ui.R")
+source("server.R")
+library(ggplot2)
+library(dplyr)
+library(tidyverse)
+library(plotly)
+library(bslib)
+
+shinyApp(ui= ui, server = server)
