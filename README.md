@@ -1,7 +1,7 @@
-# Title of Your Final Project Here 
+# Analyzing the Impact of Lifestyle Factors on Sleep Quality
 ## INFO 201 "Foundational Skills for Data Science"
 
-Authors: Your names here
+Authors: Xiaoyuan Ye (Simon), Tong Wu (Alley), Sijia Wu (Scarlette)
 
 
 For the Final Project -- Data Wrangling, add the following to this code repository:
